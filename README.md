@@ -25,5 +25,5 @@ Trabalho com **integração de APIs**, **automação de processos** e **análise
 ---
 
 💬 **Vamos trocar ideias?**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/felipegehren)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/felipe-gehren-3ba043205/)  
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:felipegehren@gmail.com)
