@@ -5,8 +5,6 @@ Trabalho com **integração de APIs**, **automação de processos** e **análise
 
 🚀 Atualmente, exploro aplicações de **Inteligência Artificial** para otimizar operações e criar assistentes virtuais capazes de analisar informações e prever necessidades futuras.
 
-🛠️ Meu objetivo é transformar ideias em soluções **robustas**, sempre com código **limpo**, **bem estruturado** e **escalável**.
-
 📚 Aprendizado constante faz parte do meu dia a dia — porque **inovação não é um destino, é um caminho**.
 
 ---
