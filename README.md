@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Felipe Gehren
 
-<!--
-**FelipeGehren/FelipeGehren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Desenvolvedor focado em criar soluções que conectam tecnologia e negócios.**  
+Trabalho com **integração de APIs**, **automação de processos** e **análise de dados** para gerar resultados práticos e inteligentes.
 
-Here are some ideas to get you started:
+🚀 Atualmente, exploro aplicações de **Inteligência Artificial** para otimizar operações e criar assistentes virtuais capazes de analisar informações e prever necessidades futuras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Meu objetivo é transformar ideias em soluções **robustas**, sempre com código **limpo**, **bem estruturado** e **escalável**.
+
+📚 Aprendizado constante faz parte do meu dia a dia — porque **inovação não é um destino, é um caminho**.
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+- **Linguagens:** Python, JavaScript, SQL  
+- **Frameworks & Bibliotecas:** FastAPI, Flask, Pandas, NumPy  
+- **Banco de Dados:** MongoDB, PostgreSQL, MySQL  
+- **Outros:** Git, Docker, APIs REST
+
+---
+
+## 📈 Estatísticas do GitHub
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipegehren&show_icons=true&theme=dracula)
+
+---
+
+💬 **Vamos trocar ideias?**  
+[![LinkedIn](https://www.linkedin.com/in/felipe-gehren-3ba043205)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](felipegehren@gmail.com)
